@@ -1,0 +1,19 @@
+"","total","expected","hits","Raw p","Holm p","FDR"
+"Valine, leucine and isoleucine biosynthesis",8,0.0685,2,0.00184,0.149,0.149
+"Galactose metabolism",26,0.223,2,0.0196,1,0.609
+"Alanine, aspartate and glutamate metabolism",28,0.24,2,0.0226,1,0.609
+"Phenylalanine, tyrosine and tryptophan biosynthesis",4,0.0342,1,0.0338,1,0.685
+"Valine, leucine and isoleucine degradation",40,0.342,2,0.0439,1,0.711
+"Phenylalanine metabolism",8,0.0685,1,0.0666,1,0.899
+"Arginine biosynthesis",14,0.12,1,0.114,1,1
+"Histidine metabolism",16,0.137,1,0.129,1,1
+"Selenocompound metabolism",20,0.171,1,0.159,1,1
+"Pantothenate and CoA biosynthesis",20,0.171,1,0.159,1,1
+"beta-Alanine metabolism",21,0.18,1,0.166,1,1
+"Propanoate metabolism",22,0.188,1,0.173,1,1
+"One carbon pool by folate",26,0.223,1,0.202,1,1
+"Lysine degradation",29,0.248,1,0.222,1,1
+"Glycine, serine and threonine metabolism",32,0.274,1,0.243,1,1
+"Arginine and proline metabolism",35,0.3,1,0.262,1,1
+"Pyrimidine metabolism",39,0.334,1,0.288,1,1
+"Tryptophan metabolism",40,0.342,1,0.294,1,1

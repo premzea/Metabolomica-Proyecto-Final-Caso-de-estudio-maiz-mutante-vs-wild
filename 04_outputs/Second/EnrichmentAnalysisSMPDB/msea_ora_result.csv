@@ -1,0 +1,21 @@
+"","total","expected","hits","Raw p","Holm p","FDR"
+"Aspartate Metabolism",35,0.454,3,0.00879,0.861,0.861
+"Glycine and Serine Metabolism",59,0.765,3,0.0364,1,1
+"Urea Cycle",28,0.363,2,0.0486,1,1
+"Methylhistidine Metabolism",4,0.0519,1,0.051,1,1
+"Beta-Alanine Metabolism",34,0.441,2,0.069,1,1
+"Galactose Metabolism",38,0.493,2,0.084,1,1
+"Histidine Metabolism",42,0.545,2,0.0999,1,1
+"Glucose-Alanine Cycle",13,0.169,1,0.157,1,1
+"Valine, Leucine and Isoleucine Degradation",59,0.765,2,0.175,1,1
+"Tryptophan Metabolism",59,0.765,2,0.175,1,1
+"Alanine Metabolism",17,0.221,1,0.201,1,1
+"Glutathione Metabolism",20,0.259,1,0.232,1,1
+"Carnitine Synthesis",22,0.285,1,0.252,1,1
+"Phenylalanine and Tyrosine Metabolism",27,0.35,1,0.3,1,1
+"Selenoamino Acid Metabolism",27,0.35,1,0.3,1,1
+"Propanoate Metabolism",42,0.545,1,0.429,1,1
+"Methionine Metabolism",42,0.545,1,0.429,1,1
+"Glutamate Metabolism",48,0.623,1,0.474,1,1
+"Arginine and Proline Metabolism",52,0.675,1,0.502,1,1
+"Pyrimidine Metabolism",57,0.74,1,0.535,1,1

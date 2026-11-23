@@ -1,0 +1,396 @@
+#METABOLOMICS WORKBENCH wzh_1989_20260530_001240 DATATRACK_ID:7584 STUDY_ID:ST004925 ANALYSIS_ID:AN008345 PROJECT_ID:PR003156
+VERSION             	1
+CREATED_ON             	June 11, 2026, 6:50 pm
+#PROJECT
+PR:PROJECT_TITLE                 	Comprehensive absolute quantitative targeted metabolomics analysis of a
+PR:PROJECT_TITLE                 	sweet-waxy double recessive maize mutant with enhanced kernel filling
+PR:PROJECT_TYPE                  	Metabolomics
+PR:PROJECT_SUMMARY               	This project aims to characterize the metabolic basis for increased endosperm
+PR:PROJECT_SUMMARY               	content in a sweet-waxy double recessive maize mutant (M4-6). Using a targeted
+PR:PROJECT_SUMMARY               	metabolomics approach with UHPLC-QTRAP MS/MS (AB SCIEX 6500+) on HILIC and C18
+PR:PROJECT_SUMMARY               	columns in positive and negative ion switch mode, we quantified 337 metabolites
+PR:PROJECT_SUMMARY               	in the endosperm of both mutant and wild-type at 20 days after pollination (n=3
+PR:PROJECT_SUMMARY               	per group). The mutant displayed a 41.4% increase in dry grain weight,
+PR:PROJECT_SUMMARY               	accompanied by elevated levels of soluble sugars (43.4%) and sucrose (21.2%).
+PR:PROJECT_SUMMARY               	Metabolomic profiling identified 68 differential metabolites (p&lt;0.05),
+PR:PROJECT_SUMMARY               	indicating enhanced turnover of carbon compounds, with depletion of
+PR:PROJECT_SUMMARY               	branched-chain amino acid degradation intermediates (3-methyl-2-oxobutanoic
+PR:PROJECT_SUMMARY               	acid, methylmalonic acid, ketoleucine, 3-methyl-2-oxovaleric acid) and
+PR:PROJECT_SUMMARY               	accumulation of metabolites such as β-alanine and tartaric acid. Pathway
+PR:PROJECT_SUMMARY               	enrichment analysis revealed significant alterations in
+PR:PROJECT_SUMMARY               	valine/leucine/isoleucine degradation (ko00280), glyoxylate/dicarboxylate
+PR:PROJECT_SUMMARY               	metabolism (ko00630), and β-alanine metabolism (ko00410). This dataset provides
+PR:PROJECT_SUMMARY               	a high-resolution metabolic profile of the mutant endosperm and offers insights
+PR:PROJECT_SUMMARY               	into the metabolic reprogramming associated with enhanced kernel filling.
+PR:INSTITUTE                     	Shanxi Agricultural University
+PR:DEPARTMENT                    	Maize Research Institute
+PR:LAST_NAME                     	Wang
+PR:FIRST_NAME                    	Zhihong
+PR:ADDRESS                       	No. 14 Xinjian North Road, Xinfu District, Xinzhou City, Shanxi Province,
+PR:ADDRESS                       	034000, China
+PR:EMAIL                         	wangzhihong@sxau.edu.cn
+PR:PHONE                         	+8618634506918
+#STUDY
+ST:STUDY_TITLE                   	Targeted metabolomics of sweet-waxy double recessive maize endosperm reveals
+ST:STUDY_TITLE                   	enhanced carbon flux and amino acid degradation in a kernel-filling mutant
+ST:STUDY_TYPE                    	Targeted MS
+ST:STUDY_SUMMARY                 	This study performed a targeted, absolute quantitative metabolomics analysis on
+ST:STUDY_SUMMARY                 	maize (Zea mays) endosperm from a sweet-waxy double recessive mutant (M4-6, n=3)
+ST:STUDY_SUMMARY                 	and its wild-type (n=3) at 20 days after pollination (DAP). Metabolites were
+ST:STUDY_SUMMARY                 	extracted using a cold methanol/acetonitrile/water (2:2:1, v/v) method and
+ST:STUDY_SUMMARY                 	analyzed by UHPLC-QTRAP MS/MS (AB SCIEX 6500+) with both HILIC and C18 columns
+ST:STUDY_SUMMARY                 	in positive and negative ion switch mode using MRM acquisition. Of the 337
+ST:STUDY_SUMMARY                 	metabolites quantified, 68 showed significant differences (p&lt;0.05), with 15
+ST:STUDY_SUMMARY                 	upregulated and 53 downregulated in the mutant. Key findings include depletion
+ST:STUDY_SUMMARY                 	of branched-chain amino acid degradation intermediates (3-methyl-2-oxobutanoic
+ST:STUDY_SUMMARY                 	acid, methylmalonic acid, ketoleucine, 3-methyl-2-oxovaleric acid) and
+ST:STUDY_SUMMARY                 	accumulation of β-alanine and tartaric acid. Differential metabolites were
+ST:STUDY_SUMMARY                 	enriched in pathways including valine/leucine/isoleucine degradation (ko00280),
+ST:STUDY_SUMMARY                 	glyoxylate/dicarboxylate metabolism (ko00630), and β-alanine metabolism
+ST:STUDY_SUMMARY                 	(ko00410). The results demonstrate enhanced carbon flux through catabolic
+ST:STUDY_SUMMARY                 	pathways in the mutant endosperm.
+ST:INSTITUTE                     	Shanxi Agricultural University
+ST:DEPARTMENT                    	Maize Research Institute
+ST:LAST_NAME                     	Wang
+ST:FIRST_NAME                    	Zhihong
+ST:ADDRESS                       	No. 14, Xinjian North Road, Xinfu District, Xinzhou, Shanxi, 034000, China
+ST:EMAIL                         	wangzhihong@sxau.edu.cn
+ST:PHONE                         	+8618634506918
+ST:NUM_GROUPS                    	2
+ST:TOTAL_SUBJECTS                	6
+#SUBJECT
+SU:SUBJECT_TYPE                  	Plant
+SU:SUBJECT_SPECIES               	Zea mays
+SU:TAXONOMY_ID                   	4577
+SU:GENOTYPE_STRAIN               	Mutant (unknown gene); Wild-type (control)
+SU:AGE_OR_AGE_RANGE              	20 days after pollination (DAP)
+#SUBJECT_SAMPLE_FACTORS:         	SUBJECT(optional)[tab]SAMPLE[tab]FACTORS(NAME:VALUE pairs separated by |)[tab]Raw file names and additional sample data
+SUBJECT_SAMPLE_FACTORS           	-	Mutant-1	Sample source:maize endosperm | Genotype:Mutant	RAW_FILE_NAME(Raw file name)=Mutant-1.mzML
+SUBJECT_SAMPLE_FACTORS           	-	Mutant-2	Sample source:maize endosperm | Genotype:Mutant	RAW_FILE_NAME(Raw file name)=Mutant-2.mzML
+SUBJECT_SAMPLE_FACTORS           	-	Mutant-3	Sample source:maize endosperm | Genotype:Mutant	RAW_FILE_NAME(Raw file name)=Mutant-3.mzML
+SUBJECT_SAMPLE_FACTORS           	-	wild-1	Sample source:maize endosperm | Genotype:Wild-type	RAW_FILE_NAME(Raw file name)=wild-1.mzML
+SUBJECT_SAMPLE_FACTORS           	-	wild-2	Sample source:maize endosperm | Genotype:Wild-type	RAW_FILE_NAME(Raw file name)=wild-2.mzML
+SUBJECT_SAMPLE_FACTORS           	-	wild-3	Sample source:maize endosperm | Genotype:Wild-type	RAW_FILE_NAME(Raw file name)=wild-3.mzML
+SUBJECT_SAMPLE_FACTORS           	-	QC-1	Sample source:maize endosperm | Genotype:QC	RAW_FILE_NAME(Raw file name)=QC-1.mzML
+SUBJECT_SAMPLE_FACTORS           	-	QC-2	Sample source:maize endosperm | Genotype:QC	RAW_FILE_NAME(Raw file name)=QC-2.mzML
+SUBJECT_SAMPLE_FACTORS           	-	QC-3	Sample source:maize endosperm | Genotype:QC	RAW_FILE_NAME(Raw file name)=QC-3.mzML
+#COLLECTION
+CO:COLLECTION_SUMMARY            	Maize endosperm was dissected from kernels at 20 days after pollination (DAP).
+CO:COLLECTION_SUMMARY            	Tissues were immediately frozen in liquid nitrogen and stored at -80°C until
+CO:COLLECTION_SUMMARY            	metabolite extraction.
+CO:SAMPLE_TYPE                   	Maize starchy endosperm
+CO:COLLECTION_METHOD             	Dissection
+CO:COLLECTION_LOCATION           	Laboratory
+CO:COLLECTION_FREQUENCY          	Once
+CO:COLLECTION_DURATION           	About 20 min
+CO:VOLUMEORAMOUNT_COLLECTED      	Approximately 80 mg per sample
+CO:STORAGE_CONDITIONS            	-80℃
+CO:COLLECTION_VIALS              	2 mL Eppendorf tube
+CO:STORAGE_VIALS                 	2 mL Eppendorf tube
+CO:COLLECTION_TUBE_TEMP          	4
+CO:ADDITIVES                     	None
+#TREATMENT
+TR:TREATMENT_SUMMARY             	No specific treatment was applied. The comparison is based on genotype (mutant
+TR:TREATMENT_SUMMARY             	vs wild-type).
+TR:PLANT_GROWTH_SUPPORT          	Soil
+TR:PLANT_GROWTH_LOCATION         	Field
+TR:PLANT_GROWTH_STAGE            	20 days after pollination
+TR:PLANT_METAB_QUENCH_METHOD     	Liquid nitrogen
+TR:PLANT_HARVEST_METHOD          	Dissection of endosperm from kernels
+TR:PLANT_STORAGE                 	-80°C
+#SAMPLEPREP
+SP:SAMPLEPREP_SUMMARY            	Endosperm tissue (~80 mg) was extracted with 1000 μL of cold
+SP:SAMPLEPREP_SUMMARY            	methanol/acetonitrile/water (2:2:1, v/v). Stable-isotope internal standards were
+SP:SAMPLEPREP_SUMMARY            	added. Samples were homogenized, sonicated, centrifuged, and the supernatant was
+SP:SAMPLEPREP_SUMMARY            	dried under vacuum. The residue was re-dissolved in 100 μL acetonitrile/water
+SP:SAMPLEPREP_SUMMARY            	(1:1, v/v) for LC-MS analysis.
+SP:SAMPLEPREP_PROTOCOL_FILENAME  	method_wzh.pdf
+SP:PROCESSING_METHOD             	Metabolite extraction
+SP:PROCESSING_STORAGE_CONDITIONS 	4℃
+SP:EXTRACTION_METHOD             	Cold methanol/acetonitrile/water (2:2:1, v/v) extraction
+SP:EXTRACT_ENRICHMENT            	None
+SP:EXTRACT_CLEANUP               	Centrifugation at 14,000 g for 15 min at 4°C
+SP:EXTRACT_STORAGE               	-80℃
+SP:SAMPLE_RESUSPENSION           	100 μL acetonitrile/water (1:1, v/v)
+SP:SAMPLE_DERIVATIZATION         	None
+SP:SAMPLE_SPIKING                	Stable-isotope labeled internal standards added during extraction
+#CHROMATOGRAPHY
+CH:CHROMATOGRAPHY_SUMMARY        	Metabolites were separated on a C18 column (Waters UPLC BEH C18, 2.1 x 100 mm,
+CH:CHROMATOGRAPHY_SUMMARY        	1.7 μm) with a gradient elution using 5 mM ammonium acetate in water (A) and
+CH:CHROMATOGRAPHY_SUMMARY        	99.5% puew acetonitrile (B) at 0.4 mL/min and 40°C.
+CH:CHROMATOGRAPHY_TYPE           	Reversed phase
+CH:INSTRUMENT_NAME               	Agilent 1290 Infinity
+CH:COLUMN_NAME                   	Waters ACQUITY UPLC BEH C18 (100 x 2.1mm,1.7um)
+CH:SOLVENT_A                     	100% water; 5 mM ammonium acetate
+CH:SOLVENT_B                     	100% acetonitrile
+CH:FLOW_GRADIENT                 	0 min 5% B, 5 min 60% B, 11 min 100% B, 13 min 100% B, 13.1 min 5% B, 16 min 5%
+CH:FLOW_GRADIENT                 	B
+CH:FLOW_RATE                     	0.4 mL/min
+CH:COLUMN_TEMPERATURE            	40
+CH:METHODS_FILENAME              	method_wzh.pdf
+CH:INJECTION_TEMPERATURE         	4
+CH:INTERNAL_STANDARD             	Stable-isotope labeled internal standards
+CH:SAMPLE_INJECTION              	2 μL
+CH:ANALYTICAL_TIME               	16 min
+CH:RANDOMIZATION_ORDER           	Randomized
+#ANALYSIS
+AN:ANALYSIS_TYPE                 	MS
+AN:SOFTWARE_VERSION              	MultiQuant 3.0
+AN:ANALYSIS_PROTOCOL_FILE        	method_wzh.pdf
+#MS
+MS:INSTRUMENT_NAME               	ABI Sciex 6500+ QTrap
+MS:INSTRUMENT_TYPE               	Triple quadrupole
+MS:MS_TYPE                       	ESI
+MS:ION_MODE                      	UNSPECIFIED
+MS:MS_COMMENTS                   	MRM mode with positive/negative switching. Source temperature: 580°C, GS1: 45,
+MS:MS_COMMENTS                   	GS2: 60, CUR: 35. IonSpray Voltage: +4500 V (positive) / -4500 V (negative).
+MS:MS_COMMENTS                   	Data processed using MultiQuant software. Quantification based on stable-isotope
+MS:MS_COMMENTS                   	internal standards using 1/x² weighted linear regression. MultiQuant 3.0 (AB
+MS:MS_COMMENTS                   	SCIEX)
+MS:ION_SOURCE_TEMPERATURE        	580
+MS:ION_SPRAY_VOLTAGE             	-4500
+#MS_METABOLITE_DATA
+MS_METABOLITE_DATA:UNITS	ng/g of fresh endosperm
+MS_METABOLITE_DATA_START
+Samples	Mutant-1	Mutant-2	Mutant-3	wild-1	wild-2	wild-3	QC-1	QC-2	QC-3
+Factors	Sample source:maize endosperm | Genotype:Mutant	Sample source:maize endosperm | Genotype:Mutant	Sample source:maize endosperm | Genotype:Mutant	Sample source:maize endosperm | Genotype:Wild-type	Sample source:maize endosperm | Genotype:Wild-type	Sample source:maize endosperm | Genotype:Wild-type	Sample source:maize endosperm | Genotype:QC	Sample source:maize endosperm | Genotype:QC	Sample source:maize endosperm | Genotype:QC
+Linoleyl carnitine	1.599460875	1.859311744	1.538032074	1.490583918	1.10784246	1.099439089	1.376548865	1.44548278	1.706417102
+Stearylcarnitine	0.774571779	1.052290615	0.929316436	1.040923531	0.75822615	0.782772724	0.829560829	0.817260637	1.021760769
+Glutamyltryptophan	187.6305881	192.6311182	169.9606695	268.7859769	229.548162	260.6323141	222.197779	242.5566202	224.8970184
+Phenylalanylalanine	1.105065708	1.400304407	1.595628362	2.460258844	1.63912708	1.411094718	1.340690352	1.443135682	1.601968447
+gamma-Glutamyl-phenylalanine	188.1732896	135.2024814	173.9323578	365.7502337	350.6751135	231.2875781	220.7957332	259.0674742	246.603364
+Glycyl-Phenylalanine	2.173172206	4.426800047	3.154729572	8.857413266	3.388462272	4.94355247	4.133787779	4.659187407	3.868123516
+Leucylphenylalanine	4.324428723	4.034991121	3.964956564	9.347396338	9.487787396	9.478244582	6.280177271	7.218176483	7.649323649
+Butyrylcarnitine	1.188955987	1.150509739	1.034967426	0.859772221	1.093072481	0.911969748	1.022540231	1.104603974	1.063770466
+Valerylcarnitine	1.329719489	1.187167529	1.370192833	1.240630435	0.0978487	0.229973211	0.158609904	0.982287863	0.719791296
+Isovalerylcarnitine	0.55860363	0.74756236	0.647176915	1.033294646	1.361983017	1.229853546	1.260908004	0.285186917	1.343200949
+Cholesterol sulfate	48.68040035	21.73298075	23.6443973	25.5430375	32.34453664	38.95286121	28.54547692	34.2425088	37.23997327
+2'-Deoxyguanosine 5'-diphosphate(dGDP)	1646.878756	2150.706633	2243.585619	437.6100618	2436.306045	1554.550078	1832.031208	1848.303342	1868.639786
+2'-Deoxyguanosine 5'-triphosphate(dGTP)	36434.51342	79648.09253	40737.2172	2070.667522	66668.56723	18090.24745	32283.88734	33647.78393	29981.8411
+Spermidine	21820.9406	27289.91407	28419.80646	16186.37366	21698.70617	13814.39467	18971.6866	21267.48041	18891.77594
+Epinephrine	5.489749817	6.425738971	6.268138237	7.178385604	7.908222076	5.173012951	7.895205152	9.207585531	7.754185903
+Norepinephrine	1656.703772	124346.5992	1919.832895	5503.377646	4764.742849	4014.35277	1926.202262	2193.138342	1871.250983
+3-Aminosalicylic acid	7.07791607	5.921930353	5.142321737	7.507209736	3.348812748	5.754752296	3.654280556	3.13649735	2.181048325
+Gallic acid	166.2191731	71.09371507	84.9871243	212.9735744	235.6176371	252.1435331	168.8893096	210.0850693	197.5156418
+Citraconic acid	3700.809869	2104.0798	1534.333241	3719.697019	6820.237523	2116.769812	3334.373365	4206.889904	2931.660964
+Serotonin	4.809619921	7.495182696	8.08790136	21.137059	34.49230841	68.70417233	24.48123532	27.08379399	24.10675818
+2-Furoic acid	436.8633737	395.9212872	389.1622131	1046.435326	1079.387861	1023.981472	695.6745208	735.6410488	699.9196217
+Chlorogenic acid	105.7711918	96.37373182	56.28649153	130.4608521	775.3087261	291.8649596	199.8287314	239.4347731	228.592641
+2-Hydroxy-2-methylbutyric acid	350.4858727	284.246618	269.1733178	213.5500618	373.6813042	269.0752048	283.7941606	339.9332817	283.3956096
+3-Methyl-2-oxobutanoic acid	25938.78127	23568.09692	25312.54339	36928.73772	35608.74564	35591.7727	30887.45212	38755.88238	31113.27401
+Taurocholic acid (TCA)	38.17781378	23.08227019	11.51863481	9.07698269	11.65568158	9.669028711	14.67508538	13.95370417	15.10559213
+3-Methoxytyramine	18.91881121	28.8509281	21.85716431	18.26424895	31.11694264	18.59362048	31.83769992	35.04488082	36.76645508
+2-Hydroxyphenethylamine	964.3257595	975.2720611	1004.048869	1476.865288	1799.336783	1658.163268	1237.015337	1419.014926	1387.054985
+3-Methyl-2-oxovaleric acid	2793.709443	3345.440951	3108.338163	10942.56245	5114.677982	7595.718222	5302.157715	5551.438249	4798.212394
+N-Formyl-methionine	46.58162355	66.83763479	42.57097408	41.01213481	54.92553253	50.28342366	45.21060364	51.09059198	51.17734461
+2-Hydroxy-3-methylbutyric acid	309.6405568	312.3334952	281.64661	222.8498561	350.1786558	265.3775188	282.8163954	310.3603751	276.8188742
+Ketoleucine	4.008056257	4.147021517	3.345358205	17.57434308	7.871089286	10.95407548	6.435461401	6.811929579	6.858071937
+5'-Deoxyadenosine	0.772121721	1.017860758	1.117695353	1.313051966	1.331966051	1.170257174	1.076736352	1.278889208	1.122109364
+Xanthurenate	48.79489045	51.7948927	35.81791533	42.38380747	41.51311192	60.40912258	43.12418356	50.60799627	45.23430628
+2-Hydroxy-4-(methylthio)butanoic acid	112.6100634	92.0543253	136.3283642	304.8761969	285.3139622	225.6147595	187.4516704	168.5980227	164.9289644
+Hydroxyphenyllactic acid	275.5318732	432.5463332	426.9966242	339.1635431	295.9282119	355.5004383	340.2928625	430.0419422	338.4045154
+Methylglutaric acid	307.6189303	465.9002849	353.1818013	262.6721201	289.8776045	248.5528141	328.6834966	374.5830831	283.8900812
+N-Acetyltyrosine	6.797562701	9.990951675	7.68490318	6.176804702	7.572356902	7.347435861	7.863364712	7.373930549	7.311723684
+Adipic acid	425.6669989	548.4469998	434.4582595	332.3419036	407.1031659	348.5576151	364.5529886	443.5849032	399.4470374
+Phenylethylamine	0.703828587	0.735871625	0.668703475	0.122643984	0.043264329	0.269720858	0.827408401	0.127145641	0.775021876
+N-Acetylmethionine	475.5613035	675.3345903	444.2968676	682.9748761	529.1281914	659.1092848	524.3150154	652.5499	555.8658924
+2-Pyrocatechuic acid	459.5340806	518.768805	418.2197348	440.7602118	517.0734673	469.22817	446.2276632	528.0297966	477.8925976
+4-Hydroxybenzoic acid	156.691057	238.1678888	171.9886523	181.1181246	213.9485299	247.8370399	200.1589935	217.295438	209.8903851
+Phenol	1534.677413	1676.641976	1486.556395	2134.174721	1841.400349	2852.690386	1829.847578	1939.267172	2112.754369
+Phthalic acid	1166.078608	1806.803547	1828.494852	1992.661816	1850.003865	1789.206358	1666.527336	1892.772218	1820.430509
+Quinoline	1870.683517	1923.765112	2314.870089	4860.594341	5956.25887	5314.996076	3236.834916	4700.635473	3201.440666
+Phenylpyruvic acid	479.282067	574.428456	792.7267628	3387.54591	2967.624061	1983.522992	1533.183153	1643.356702	1548.779131
+Tryptamine	5.49021237	3.942451649	3.761276704	3.592577421	5.373071832	5.087901716	4.265400515	4.368911475	3.931617163
+Quinaldic acid	1.182893593	0.845904453	1.227403452	1.202425702	10.9616354	1.892517237	3.41467695	2.741115517	3.400482642
+Vanillic acid	325.8173641	572.7484745	380.0306361	640.4918089	396.6347964	957.2036097	529.4049009	570.4689379	551.5309329
+5'-Methylthioadenosine	36.02684465	45.05537137	44.24975628	29.76845	34.84393589	22.00025415	28.49414659	27.46216667	28.65200156
+Caffeine	0.269235847	0.312160236	0.305745409	0.277846986	0.287115919	0.37083333	0.347238228	0.381226232	0.352312574
+4-Hydroxybenzaldehyde	33.98643527	46.10400276	36.69793698	75.90041984	55.28719064	37.58195613	49.52025579	52.281122	47.87367786
+3-Methyladipic acid	100.5555345	160.8469541	127.5873805	117.1073727	105.6598378	99.36716046	105.1183028	134.9682154	118.030644
+Vitamin B7	2.113178812	1.769267069	1.558534085	1.542803749	1.353450804	1.241129049	1.46047251	1.661241435	1.591867468
+Pentadecanoic acid	81.33678477	101.7852414	93.0816176	110.4818353	80.20758486	58.77152154	86.95070059	81.32888132	73.82995983
+3-(4-Hydroxyphenyl)propionic acid	1569.725045	1394.020836	1955.022643	1663.445551	3152.486596	2380.866242	2347.008624	2669.61417	2428.685402
+4-Hydroxycinnamic acid	7940.29423	9974.080208	10278.43844	10943.14504	12352.5195	11540.41484	10986.71688	11526.52192	10097.73097
+Phenyllactic acid	424.4416902	493.8750413	479.3822434	554.5098595	593.4158981	581.3293359	531.4938295	592.0797645	543.3778565
+2-Hydroxycaproic acid	69.00742883	57.07037961	81.27741896	115.2202233	164.8567868	140.1150915	99.4886815	109.7500112	93.76954412
+N-acetyltryptophan	27.87374663	13.57385836	16.9159769	11.85442127	24.2091742	15.01601778	17.57882322	19.24993328	18.91072978
+N-Acetylleucine	8.533900924	7.344947079	6.765545498	5.762207357	7.841995575	6.524709118	5.257340774	6.897945744	7.883669187
+N-Acetylphenylalanine	21.84955479	23.71125867	29.3990776	16.48166403	32.17629639	32.33282748	27.97188758	26.33418764	29.07604232
+Indole-3-carboxaldehyde	41.17267072	82.88349192	37.24142786	133.0933921	29.7277391	52.32947673	51.89851342	47.86176453	44.61490549
+Kynurenate	190.4932802	299.6287844	267.9771826	284.9445619	257.0420725	282.704253	273.050152	301.3272071	291.6730224
+trans-Ferulic acid	33195.58984	39056.2156	39540.07115	63897.09758	60500.10562	64129.27837	52130.06509	54050.68789	53851.82713
+Suberic acid	456.6955576	574.1963305	697.1861937	493.2398378	631.5407418	553.590381	652.2193181	713.8946977	661.3859302
+Dethiobiotin	0.97504589	1.169328875	0.21986669	0.508750677	0.119688818	0.641934055	0.156375442	0.62253359	0.396755819
+Indoleacetic acid	40917.87967	53668.3478	51717.43689	53839.09643	52641.49963	55278.84427	47867.92994	53767.84375	51771.60438
+p-Cresyl sulfate	3155.81209	3210.467739	3209.864613	5540.547245	5367.815393	4362.622023	3922.727308	4214.973728	4027.908638
+Azelaic acid	2870.272839	2935.587356	2880.814914	4850.576788	5021.201914	4117.068117	3683.790952	3744.595681	3794.89061
+Indoleacrylic acid	3.920257793	5.116038247	3.903981215	5.035739558	4.885946164	4.232045684	4.790720687	5.042125403	5.07228603
+Lumichrome	68.45074903	76.77612528	75.48777239	115.9339854	136.484852	111.9599176	57.50034818	70.25616539	66.70031432
+Lipoamide	2.442945227	0.945370887	1.11283549	1.968219392	3.467595681	1.768947987	1.094087847	1.305450189	1.788001118
+Indole-3-methyl acetate	216.4670151	149.9171424	256.1164961	279.7528674	312.8603253	273.5625585	185.9032278	229.5838518	223.2914216
+Sebacic acid	489.8174644	817.0278126	537.3535465	537.3359047	717.8883758	554.0313517	593.03313	674.6451082	651.2311985
+Tauro-α-muricholic acid (α-TMCA)	0.083964816	0.30284422	0.363960767	0.095289566	0.151741355	0.085095025	0.13855931	0.146299476	0.152083764
+Tauro-ω-muricholic acid (ω-TMCA)	0.208892948	0.392579321	0.480624853	0.483378861	0.30234368	0.193140253	0.257446304	0.283687908	0.270275069
+Ethyl 3-indoleacetate	7.852540919	7.209422091	5.986577733	3.308987581	5.278363076	3.92611552	4.747200778	5.516109095	5.643953592
+Cortexolone	0.033253445	0.06408931	0.204458708	0.100523894	0.099470256	0.0260102	0.057364229	0.057997579	0.043259501
+Ursocholic acid (UCA)	66.1790713	74.45148334	70.17437588	85.86747342	52.98566089	42.27607688	77.69405269	77.37925123	86.733614
+Glycocholic acid (GCA)	2.660963434	2.486906776	2.204032738	2.307829738	2.378091293	2.243612131	2.633525552	2.485126852	2.468475778
+Deoxycorticosterone acetate	2.437077155	2.749469004	2.03267604	1.896307485	3.959980052	2.417195344	2.39663022	2.546516897	2.61871024
+Taurochenodeoxycholic acid (TCDCA)	2.359872274	1.143450351	1.419640953	1.026920969	1.019917301	1.032331432	1.410297838	1.203973203	1.112574553
+Biliverdin	1573.407137	2292.40751	1980.09109	1188.430863	1789.268592	1537.113974	1673.101731	1897.633906	2096.914852
+Taurolithocholic acid (TLCA)	0.309064517	0.461470978	0.289767353	0.33980577	0.431964935	0.420254905	0.301507723	0.324850787	0.331100379
+Nordeoxycholic acid (NorDCA)	26.3138279	72.90986664	51.96408066	50.18906103	39.39937677	39.15297122	52.42141797	48.27506399	47.52301115
+Apocholic acid	52.31903523	55.20262613	61.50261866	57.8972397	41.71254607	48.14963945	50.92102133	55.24796798	57.81260328
+Ricinoleic acid	87.64160071	216.0446549	111.7415272	66.67047137	212.7790216	273.1769836	178.3241417	137.3289677	147.0853858
+1-Oleylglycerol	18566.89081	117417.4103	104558.3613	34655.68724	59263.44423	12548.1052	40550.2444	41281.88617	40953.54709
+Isolithocholic acid (IsoLCA)	591.4120928	325.1786697	411.3827199	90.6116822	677.6235808	626.8676071	460.2577829	563.396455	593.2965976
+Glycerol-myristate	16.61536695	493.8614855	264.1778666	35.06379098	334.5851067	22.38103999	55.37555436	301.5220045	79.90749735
+Palmitoylcarnitine	0.644846144	0.024757626	0.944608199	0.430273207	0.882037163	0.829431108	0.5363739	0.615143774	0.722303062
+Linoleoyl ethanolamide	293.9073253	1125.505974	499.179954	552.514186	477.7485215	775.5651873	440.8492606	536.2876561	572.5197171
+Gamma-Linolenic acid	736.6992776	312.0137496	267.1359978	225.3505803	379.0179114	1419.908539	497.8154149	874.0232989	1887.108477
+Alpha-Linolenic acid	2691.415355	1603.17574	886.0651549	1983.125962	1671.264714	2491.648849	2239.925726	2239.646604	3317.1136
+Palmitoylethanolamide	78.21739105	201.148024	154.288024	216.5001186	84.03370125	140.024111	116.2491484	107.7185378	137.2765978
+Palmitoleic acid	2049.200254	1389.778698	1215.983997	1959.075446	1612.378847	1991.746718	1965.184538	2004.400074	2078.052391
+Palmitelaidic acid	925.4253525	623.9927952	548.6805229	951.2556629	699.2415613	995.1578207	882.562854	887.6819514	902.9861559
+4Z,7Z,10Z,13Z,16Z,19Z-Docosahexaenoic acid (DHA)	20.4715338	59.48965994	49.54678242	58.1534898	67.09080715	12.91191104	79.14410599	88.82778941	2.070104065
+Arachidonic acid	55.17306888	43.50242926	23.6112572	23.92585696	43.18858094	35.19696243	39.12512797	36.4223194	40.79121992
+Linoelaidic acid	74373.03322	35076.78272	32572.78815	40882.29876	51738.23089	66484.69361	52660.2517	56026.21713	61825.33195
+Linoleic acid	73740.78684	35921.05447	32865.93836	40855.02716	51888.54232	66637.71653	51097.86301	55913.92445	62842.42626
+Conjugated linoleic acids (CLA)	32905.00798	15171.68807	15208.32005	17254.62553	23614.37613	29037.29523	21842.88064	24758.10067	27282.35382
+10E-Heptadecenoic acid	98.02236163	333.1553589	215.8481249	239.2284566	353.5772603	370.0078037	372.4008344	363.1818191	428.9443114
+10Z-Heptadecenoic acid	201.2722764	279.032309	184.980039	224.6166184	1.871255217	94.62039807	9.695853815	52.35435806	139.3947134
+Palmitic acid	11042.34842	11960.89926	11793.02016	11624.60116	16336.53218	8514.037159	18961.12098	19205.18963	22500.6227
+10Z,13Z-Nonadecadienoic acid	478.8486384	82.50776288	77.2407913	116.4093361	251.1673707	366.6312083	277.5958469	319.9543254	416.6323594
+Oleic acid	9083.366578	4446.541866	4143.574332	4884.801288	6261.446152	8129.493322	6682.954834	7159.24228	8119.760434
+Elaidic acid	16153.4703	6815.28081	7000.91902	7817.535389	11103.03938	13279.02083	10405.37941	11722.13954	13113.04621
+Petroselinic acid	7120.331514	15805.58811	9159.977949	8750.102018	10130.30263	11359.2516	7433.566113	9003.698119	8637.672056
+Stearic acid	971.5029997	72.24450176	17.40712507	790.93318	140.36775	900.632102	110.281352	989.1474471	894.1803887
+trans-Cinnamate	23.4109351	49.57812583	9.830411465	65.51249395	56.27608866	5.03910051	51.68008419	57.24703683	57.97252558
+Oleoylethanolamide	0.21359	0.40410675	0.359561318	0.280785069	0.352713029	0.451404762	0.347475717	0.410605844	0.536261704
+10Z-Nonadecaenoic acid	31854.83963	52241.52648	23019.75966	26384.28517	22631.64384	26034.34237	21634.23976	24142.69156	21161.17452
+11Z-Eicosenoic acid	13388.95983	20197.52947	11488.5523	17185.35621	18621.06025	15381.0326	9616.267131	9258.193367	9281.034893
+Tauro-β-muricholic acid (β-TMCA)	0.406508293	0.734653242	0.627917894	0.304546571	0.437189913	0.333678731	0.387573819	0.425081074	0.412619836
+3-Hydroxybenzaldehyde	3.84617E-07	2.09651E-06	1.14643E-06	86.43738401	54.26633856	38.7209658	43.39639938	42.95516771	48.63323866
+MS_METABOLITE_DATA_END
+#METABOLITES
+METABOLITES_START
+metabolite_name	column	Retention Time(min)	KEGG ID	HMDB ID	Cellular Locations	Super Class	Class	Sub Class	Direct Parent	QC RSD	Units
+Linoleyl carnitine	C18	10.12998667		HMDB0006469	Cytoplasm	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters	Acyl carnitines	0.115269884	ng/g
+Stearylcarnitine	C18	11.23665		HMDB0000848	Cytoplasm	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters	Acyl carnitines	0.010562832	ng/g
+Glutamyltryptophan	C18	3.674322333		HMDB0028830		Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids,peptides,and analogues	Peptides	0.048101043	ng/g
+Phenylalanylalanine	C18	2.474905667		HMDB0028988		Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids,peptides,and analogues	Dipeptides	0.09005158	ng/g
+gamma-Glutamyl-phenylalanine	C18	3.307633333		HMDB0029562		Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids,peptides,and analogues	Phenylalanine and derivatives	0.080608147	ng/g
+Glycyl-Phenylalanine	C18	2.834744333		HMDB0028848		Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids,peptides,and analogues	Dipeptides	0.095388865	ng/g
+Leucylphenylalanine	C18	4.686577667		HMDB0013243		Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids,peptides,and analogues	Dipeptides	0.09930662	ng/g
+Butyrylcarnitine	C18	2.298855667	C02862	HMDB0002013	Extracellular,Membrane	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters	Acyl carnitines	0.038577056	ng/g
+Valerylcarnitine	C18	3.317244333		HMDB0013128	Extracellular	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters	Fatty acid esters	0.678406779	ng/g
+Isovalerylcarnitine	C18	3.317244333		HMDB0000688	Extracellular	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters	Fatty acid esters	0.611078519	ng/g
+Cholesterol sulfate	C18	12.41510667	C18043	HMDB0000653		Lipids and lipid-like molecules	Steroids and steroid derivatives	Cholestane steroids	Cholesterols and derivatives	0.132459324	ng/g
+2'-Deoxyguanosine 5'-diphosphate(dGDP)	C18	9.620444	C00361	HMDB0000960		Phenylpropanoids and polyketides	Cinnamic acids and derivatives	Hydroxycinnamic acids and derivatives	Hydroxycinnamic acids	0.009916347	ng/g
+2'-Deoxyguanosine 5'-triphosphate(dGTP)	C18	10.03554667	C00286	HMDB0001440		Nucleosides,nucleotides,and analogues	Purine nucleotides	Purine deoxyribonucleotides	Purine 2'-deoxyribonucleoside triphosphates	0.057954405	ng/g
+Spermidine	C18	0.525188867	C00315	HMDB0001257	Cytoplasm	Organic nitrogen compounds	Organonitrogen compounds	Amines	Dialkylamines	0.068448283	ng/g
+Epinephrine	C18	0.538133333	C00788	HMDB0000068	Cytoplasm	Benzenoids	Phenols	Benzenediols	Catechols	0.096735735	ng/g
+Norepinephrine	C18	0.58671665	C00547	HMDB0000216	Extracellular	Benzenoids	Phenols	Benzenediols	Catechols	0.112001443	ng/g
+3-Aminosalicylic acid	C18	1.3075		HMDB0001972		Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives	Aminosalicylic acids	0.249906537	ng/g
+Gallic acid	C18	1.445361333	C01424	HMDB0005807		Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives	Gallic acids	0.109869977	ng/g
+Citraconic acid	C18	0.784072233	C02226	HMDB0000634	Extracellular	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Methyl-branched fatty acids	0.186732435	ng/g
+Serotonin	C18	1.80005	C00780	HMDB0000259	Cytoplasm	Organoheterocyclic compounds	Indoles and derivatives	Tryptamines and derivatives	Serotonins	0.06428565	ng/g
+2-Furoic acid	C18	1.762372333	C01546	HMDB0000617		Organoheterocyclic compounds	Furans	Furoic acid and derivatives	Furoic acids	0.030900512	ng/g
+Chlorogenic acid	C18	3.007572333	C00852	HMDB0003164	Cytoplasm	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols	Quinic acids and derivatives	0.091940469	ng/g
+2-Hydroxy-2-methylbutyric acid	C18	2.612494667		HMDB0001987	Extracellular	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Hydroxy fatty acids	0.107573935	ng/g
+3-Methyl-2-oxobutanoic acid	C18	1.490633333	C00141	HMDB0000019	Cytoplasm,Extracellular,Membrane,Mitochondria	Organic acids and derivatives	Keto acids and derivatives	Short-chain keto acids and derivatives	Short-chain keto acids and derivatives	0.133363199	ng/g
+Taurocholic acid (TCA)	C18	7.821372333	C05122	HMDB0000036	Extracellular	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	Trihydroxy bile acids,alcohols and derivatives	0.039925071	ng/g
+3-Methoxytyramine	C18	1.7479	C05587	HMDB0000022	Cytoplasm	Benzenoids	Phenols	Methoxyphenols	Methoxyphenols	0.072400522	ng/g
+2-Hydroxyphenethylamine	C18	2.066639	C02735	HMDB0001065		Organic nitrogen compounds	Organonitrogen compounds	Amines	Aralkylamines	0.072104144	ng/g
+3-Methyl-2-oxovaleric acid	C18	2.663049667	C00671	HMDB0000491	Cytoplasm,Extracellular,Membrane	Organic acids and derivatives	Keto acids and derivatives	Short-chain keto acids and derivatives	Short-chain keto acids and derivatives	0.073548244	ng/g
+N-Formyl-methionine	C18	2.320389	C03145	HMDB0001015		Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids,peptides,and analogues	Methionine and derivatives	0.069572114	ng/g
+2-Hydroxy-3-methylbutyric acid	C18	2.607689		HMDB0000407	Cytoplasm	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Hydroxy fatty acids	0.061679695	ng/g
+Ketoleucine	C18	2.657855667	C00233	HMDB0000695	Cytoplasm,Extracellular,Membrane,Mitochondria	Organic acids and derivatives	Keto acids and derivatives	Short-chain keto acids and derivatives	Short-chain keto acids and derivatives	0.03459135	ng/g
+5'-Deoxyadenosine	C18	2.376688667	C05198	HMDB0001983	Extracellular	Nucleosides,nucleotides,and analogues	5'-deoxyribonucleosides		5'-deoxyribonucleosides	0.091498761	ng/g
+Xanthurenate	C18	2.712144333	C02470	HMDB0000881	Membrane	Organoheterocyclic compounds	Quinolines and derivatives	Quinoline carboxylic acids	Quinoline carboxylic acids	0.083301016	ng/g
+2-Hydroxy-4-(methylthio)butanoic acid	C18	2.430961333		HMDB0037115	Cytoplasm	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Thia fatty acids	0.069586647	ng/g
+Hydroxyphenyllactic acid	C18	2.646522	C03672	HMDB0000755	Mitochondria	Phenylpropanoids and polyketides	Phenylpropanoic acids		Phenylpropanoic acids	0.141702252	ng/g
+Methylglutaric acid	C18	2.670905667		HMDB0000752	Extracellular	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Methyl-branched fatty acids	0.137812853	ng/g
+N-Acetyltyrosine	C18	2.697383333	C01657	HMDB0000866	Cytoplasm	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids,peptides,and analogues	Tyrosine and derivatives	0.040197458	ng/g
+Adipic acid	C18	2.675772333	C06104	HMDB0000448	Cytoplasm	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Medium-chain fatty acids	0.098392964	ng/g
+Phenylethylamine	C18	2.731894333	C05332	HMDB0012275		Benzenoids	Benzene and substituted derivatives	Phenethylamines	Phenethylamines	0.676561238	ng/g
+N-Acetylmethionine	C18	2.724944333	C02712	HMDB0011745		Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids,peptides,and analogues	Methionine and derivatives	0.115685824	ng/g
+2-Pyrocatechuic acid	C18	2.617372333	C00196	HMDB0000397		Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives	Salicylic acids	0.08521271	ng/g
+4-Hydroxybenzoic acid	C18	3.031961333	C00156	HMDB0000500	Cytoplasm	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives	Hydroxybenzoic acid derivatives	0.041099404	ng/g
+Phenol	C18	3.012461333	C00146	HMDB0000228		Benzenoids	Phenols	1-hydroxy-4-unsubstituted benzenoids	1-hydroxy-4-unsubstituted benzenoids	0.07276123	ng/g
+Phthalic acid	C18	2.983277667	C01606	HMDB0002107		Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives	Benzoic acids	0.064434485	ng/g
+Quinoline	C18	3.706728	C06413	HMDB0033731	Cytoplasm	Organoheterocyclic compounds	Quinolines and derivatives		Quinolines and derivatives	0.23041556	ng/g
+Phenylpyruvic acid	C18	3.25895	C00166	HMDB0000205	Cytoplasm	Benzenoids	Benzene and substituted derivatives	Phenylpyruvic acid derivatives	Phenylpyruvic acid derivatives	0.037850611	ng/g
+Tryptamine	C18	3.230478	C00398	HMDB0000303	Cytoplasm	Organoheterocyclic compounds	Indoles and derivatives	Tryptamines and derivatives	Tryptamines and derivatives	0.054559122	ng/g
+Quinaldic acid	C18	3.414922333	C06325	HMDB0000842		Organoheterocyclic compounds	Quinolines and derivatives	Quinoline carboxylic acids	Quinoline carboxylic acids	0.120815518	ng/g
+Vanillic acid	C18	3.475555667	C06672	HMDB0000484	Cytoplasm	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives	M-methoxybenzoic acids and derivatives	0.037336637	ng/g
+5'-Methylthioadenosine	C18	3.331722333	C00170	HMDB0001173	Cytoplasm	Nucleosides,nucleotides,and analogues	5'-deoxyribonucleosides	5'-deoxy-5'-thionucleosides	5'-deoxy-5'-thionucleosides	0.022913378	ng/g
+Caffeine	C18	3.409911	C07481	HMDB0001847	Cytoplasm	Organoheterocyclic compounds	Imidazopyrimidines	Purines and purine derivatives	Xanthines	0.050892673	ng/g
+4-Hydroxybenzaldehyde	C18	3.503577667	C00633	HMDB0011718		Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds	Hydroxybenzaldehydes	0.044638189	ng/g
+3-Methyladipic acid	C18	3.692328		HMDB0000555	Cytoplasm	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Medium-chain fatty acids	0.125406901	ng/g
+Vitamin B7	C18	3.748039	C00120	HMDB0000030	Cytoplasm	Organoheterocyclic compounds	Biotin and derivatives		Biotin and derivatives	0.06489879	ng/g
+Pentadecanoic acid	C18	11.39774667	C16537	HMDB0000826	Cytoplasm	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Long-chain fatty acids	0.081566935	ng/g
+3-(4-Hydroxyphenyl)propionic acid	C18	4.023638667	C01744	HMDB0002199	Cytoplasm	Phenylpropanoids and polyketides	Phenylpropanoic acids		Phenylpropanoic acids	0.067583241	ng/g
+4-Hydroxycinnamic acid	C18	4.197522	C00811	HMDB0002035	Cytoplasm	Phenylpropanoids and polyketides	Cinnamic acids and derivatives	Hydroxycinnamic acids and derivatives	Hydroxycinnamic acids	0.066370773	ng/g
+Phenyllactic acid	C18	4.197522	C05607	HMDB0000779		Phenylpropanoids and polyketides	Phenylpropanoic acids		Phenylpropanoic acids	0.057776209	ng/g
+2-Hydroxycaproic acid	C18	4.014961		HMDB0001624		Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Medium-chain fatty acids	0.080167187	ng/g
+N-acetyltryptophan	C18	4.444161		HMDB0013713		Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids,peptides,and analogues	N-acyl-L-alpha-amino acids	0.047542478	ng/g
+N-Acetylleucine	C18	4.037855667	C02710	HMDB0011756		Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids,peptides,and analogues	Leucine and derivatives	0.198618501	ng/g
+N-Acetylphenylalanine	C18	4.353649667	C03519	HMDB0000512	Cytoplasm	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids,peptides,and analogues	Phenylalanine and derivatives	0.049634823	ng/g
+Indole-3-carboxaldehyde	C18	4.632061	C08493	HMDB0029737	Cytoplasm	Organoheterocyclic compounds	Indoles and derivatives	Indoles	Indoles	0.075821939	ng/g
+Kynurenate	C18	2.918949667	C01717	HMDB0000715	Cytoplasm	Organoheterocyclic compounds	Quinolines and derivatives	Quinoline carboxylic acids	Quinoline carboxylic acids	0.049790259	ng/g
+trans-Ferulic acid	C18	4.409305333	C01494	HMDB0000954	Cytoplasm	Phenylpropanoids and polyketides	Cinnamic acids and derivatives	Hydroxycinnamic acids and derivatives	Hydroxycinnamic acids	0.019798907	ng/g
+Suberic acid	C18	4.6593	C08278	HMDB0000893		Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Medium-chain fatty acids	0.049241798	ng/g
+Dethiobiotin	C18	4.467461333	C01909	HMDB0003581	Extracellular	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Medium-chain fatty acids	0.594856238	ng/g
+Indoleacetic acid	C18	4.887527667	C00954	HMDB0000197	Cytoplasm	Organoheterocyclic compounds	Indoles and derivatives	Indolyl carboxylic acids and derivatives	Indole-3-acetic acid derivatives	0.058685044	ng/g
+p-Cresyl sulfate	C18	5.458722333		HMDB0011635		Organic acids and derivatives	Organic sulfuric acids and derivatives	Arylsulfates	Phenylsulfates	0.036501935	ng/g
+Azelaic acid	C18	5.458722333	C08261	HMDB0000784		Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Medium-chain fatty acids	0.014870688	ng/g
+Indoleacrylic acid	C18	5.684139		HMDB0000734	Membrane	Organoheterocyclic compounds	Indoles and derivatives	Indoles	Indoles	0.031115288	ng/g
+Lumichrome	C18	5.377633	C01727	HMDB0254199		Organoheterocyclic compounds	Pteridines and derivatives	Alloxazines and isoalloxazines	Flavins	0.101555715	ng/g
+Lipoamide	C18	5.254739	C00248	HMDB0000962	Membrane	Organoheterocyclic compounds	Dithiolanes	Lipoamides	Lipoamides	0.254812383	ng/g
+Indole-3-methyl acetate	C18	5.866939		HMDB0029738	Membrane	Organoheterocyclic compounds	Indoles and derivatives	Indolyl carboxylic acids and derivatives	Indole-3-acetic acid derivatives	0.110898027	ng/g
+Sebacic acid	C18	6.099861333	C08277	HMDB0000792	Membrane	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Medium-chain fatty acids	0.065698707	ng/g
+Tauro-α-muricholic acid (α-TMCA)	C18	6.615905667		HMDB0258742		Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	Taurinated bile acids and derivatives	0.046590274	ng/g
+Tauro-ω-muricholic acid (ω-TMCA)	C18	6.615905667								0.048515166	ng/g
+Ethyl 3-indoleacetate	C18	6.498772								0.091479957	ng/g
+Cortexolone	C18	6.960450333	C05488	HMDB0000015	Cytoplasm	Lipids and lipid-like molecules	Steroids and steroid derivatives	Hydroxysteroids	21-hydroxysteroids	0.157587045	ng/g
+Ursocholic acid (UCA)	C18	7.203855667	C17644	HMDB0000917	Extracellular	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	Trihydroxy bile acids,alcohols and derivatives	0.065906314	ng/g
+Glycocholic acid (GCA)	C18	8.231333	C01921	HMDB0000138	Extracellular	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	Glycinated bile acids and derivatives	0.035929401	ng/g
+Deoxycorticosterone acetate	C18	8.180083667	C14554							0.044942297	ng/g
+Taurochenodeoxycholic acid (TCDCA)	C18	8.570244333	C05465	HMDB0000951	Extracellular	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	Taurinated bile acids and derivatives	0.122769065	ng/g
+Biliverdin	C18	8.167427333	C00500	HMDB0001008	Cytoplasm,Membrane,Nucleus	Organoheterocyclic compounds	Tetrapyrroles and derivatives	Bilirubins	Bilirubins	0.112232696	ng/g
+Taurolithocholic acid (TLCA)	C18	9.360811333	C02592	HMDB0000722	Extracellular	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	Taurinated bile acids and derivatives	0.048871372	ng/g
+Nordeoxycholic acid (NorDCA)	C18	9.76505		HMDB0304947		Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	Dihydroxy bile acids,alcohols and derivatives	0.053392482	ng/g
+Apocholic acid	C18	9.779827333	C15375							0.063723188	ng/g
+Ricinoleic acid	C18	10.00111	C08365	HMDB0034297	Extracellular	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Long-chain fatty acids	0.138837486	ng/g
+1-Oleylglycerol	C18	11.38104333		HMDB0011567	Extracellular	Lipids and lipid-like molecules	Glycerolipids	Monoradylglycerols	1-monoacylglycerols	0.00895366	ng/g
+Isolithocholic acid (IsoLCA)	C18	10.06847	C17658	HMDB0000717	Extracellular	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	Monohydroxy bile acids,alcohols and derivatives	0.129500109	ng/g
+Glycerol-myristate	C18	10.67406333		HMDB0011561		Lipids and lipid-like molecules	Glycerolipids	Monoradylglycerols	1-monoacylglycerols	0.931218082	ng/g
+Palmitoylcarnitine	C18	10.62254333	C02990	HMDB0000222	Cytoplasm,Extracellular,Membrane,Mitochondria	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters	Acyl carnitines	0.149414152	ng/g
+Linoleoyl ethanolamide	C18	10.81497333		HMDB0012252	Extracellular,Membrane	Organic nitrogen compounds	Organonitrogen compounds	Amines	N-acylethanolamines	0.131676126	ng/g
+Gamma-Linolenic acid	C18	11.04655	C06426	HMDB0003073	Cytoplasm	Lipids and lipid-like molecules	Fatty Acyls	Lineolic acids and derivatives	Lineolic acids and derivatives	0.661469243	ng/g
+Alpha-Linolenic acid	C18	11.04655	C06427	HMDB0001388	Cytoplasm	Lipids and lipid-like molecules	Fatty Acyls	Lineolic acids and derivatives	Lineolic acids and derivatives	0.239330649	ng/g
+Palmitoylethanolamide	C18	11.10224	C16512	HMDB0002100	Extracellular	Organic acids and derivatives	Carboximidic acids and derivatives	Carboximidic acids	Carboximidic acids	0.126337951	ng/g
+Palmitoleic acid	C18	11.24820333	C08362	HMDB0003229	Extracellular	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Long-chain fatty acids	0.028425721	ng/g
+Palmitelaidic acid	C18	11.23847333		HMDB0012328	Extracellular	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Long-chain fatty acids	0.011925457	ng/g
+4Z,7Z,10Z,13Z,16Z,19Z-Docosahexaenoic acid (DHA)	C18	11.39774667	C06429	HMDB0002183	Cytoplasm	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Very long-chain fatty acids	0.838757524	ng/g
+Arachidonic acid	C18	11.44625333	C00219	HMDB0001043	Cytoplasm	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Long-chain fatty acids	0.056856133	ng/g
+Linoelaidic acid	C18	11.39774667		HMDB0006270	Cytoplasm	Lipids and lipid-like molecules	Fatty Acyls	Lineolic acids and derivatives	Lineolic acids and derivatives	0.081567207	ng/g
+Linoleic acid	C18	11.39774667	C01595	HMDB0000673	Cytoplasm	Lipids and lipid-like molecules	Fatty Acyls	Lineolic acids and derivatives	Lineolic acids and derivatives	0.104275181	ng/g
+Conjugated linoleic acids (CLA)	C18	11.40291333	C04056	HMDB0005048	Extracellular	Lipids and lipid-like molecules	Fatty Acyls	Lineolic acids and derivatives	Lineolic acids and derivatives	0.110528741	ng/g
+10E-Heptadecenoic acid	C18	11.48921		HMDB0304753		Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphocholines	Phosphatidylcholines 	0.091727341	ng/g
+10Z-Heptadecenoic acid	C18	11.48921		HMDB0060038	Membrane	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Long-chain fatty acids	0.984431451	ng/g
+Palmitic acid	C18	11.67281	C00249	HMDB0000220	Cytoplasm	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Long-chain fatty acids	0.097755692	ng/g
+10Z,13Z-Nonadecadienoic acid	C18	11.73930333								0.210804672	ng/g
+Oleic acid	C18	11.75730333	C00712	HMDB0000207	Extracellular	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Long-chain fatty acids	0.099974153	ng/g
+Elaidic acid	C18	11.77076667	C01712	HMDB0000573	Cytoplasm	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Long-chain fatty acids	0.115265114	ng/g
+Petroselinic acid	C18	11.77076667	C08363	HMDB0002080	Extracellular	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Long-chain fatty acids	0.098285239	ng/g
+Stearic acid	C18	12.18406333	C01530	HMDB0000827	Cytoplasm	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Long-chain fatty acids	0.725832128	ng/g
+trans-Cinnamate	C18	5.923089	C00423	HMDB0000930	Membrane	Phenylpropanoids and polyketides	Cinnamic acids and derivatives	Cinnamic acids	Cinnamic acids	0.061881668	ng/g
+Oleoylethanolamide	C18	11.22734	C20792	HMDB0002088	Extracellular,Membrane	Organic nitrogen compounds	Organonitrogen compounds	Amines	N-acylethanolamines	0.22274587	ng/g
+10Z-Nonadecaenoic acid	C18	12.00473333	C00174	HMDB0013622	Extracellular	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Long-chain fatty acids	0.071814315	ng/g
+11Z-Eicosenoic acid	C18	12.24263	C16526	HMDB0002231	Extracellular	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	Long-chain fatty acids	0.021359858	ng/g
+Tauro-β-muricholic acid (β-TMCA)	C18	6.615905667		HMDB0000932	Extracellular	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	Taurinated bile acids and derivatives	0.046770573	ng/g
+3-Hydroxybenzaldehyde	C18	3.4989	C03067							0.070198506	ng/g
+METABOLITES_END
+#END

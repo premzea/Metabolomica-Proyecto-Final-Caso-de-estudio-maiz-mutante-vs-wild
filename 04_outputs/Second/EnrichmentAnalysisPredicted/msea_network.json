@@ -1,0 +1,808 @@
+{
+ "nodes": [
+ {
+ "id": "2-hydroxybutyrate cotransport with proton",
+"label": "2-hydroxybutyrate cotransport with proton",
+"size": 41.61004,
+"color": "#FF0000",
+"x": 1.394449,
+"y": 0.05030287 
+},
+{
+ "id": "2-Hydroxybutyrate:NAD+ oxidoreductase",
+"label": "2-Hydroxybutyrate:NAD+ oxidoreductase",
+"size": 41.61004,
+"color": "#FF0B00",
+"x": 1.691574,
+"y": 0.5405743 
+},
+{
+ "id": "2-Methylcitrate exchange",
+"label": "2-Methylcitrate exchange",
+"size": 41.61004,
+"color": "#FF1500",
+"x": 0.6596198,
+"y": 0.6806199 
+},
+{
+ "id": "2-methylcitrate synthase",
+"label": "2-methylcitrate synthase",
+"size": 41.61004,
+"color": "#FF2000",
+"x": 0.4010664,
+"y": 0.2845177 
+},
+{
+ "id": "2-methylcitrate transport via diffusion",
+"label": "2-methylcitrate transport via diffusion",
+"size": 41.61004,
+"color": "#FF2A00",
+"x": 1.506315,
+"y": 1.071509 
+},
+{
+ "id": "2-Oxobutanoate dehydrogenase, cytosolic",
+"label": "2-Oxobutanoate dehydrogenase, cytosolic",
+"size": 41.61004,
+"color": "#FF3500",
+"x": 0.878116,
+"y": 0.03296637 
+},
+{
+ "id": "Propionate transport, diffusion",
+"label": "Propionate transport, diffusion",
+"size": 41.61004,
+"color": "#FF4000",
+"x": -1.517077,
+"y": -5.13375 
+},
+{
+ "id": "L-threonine deaminase",
+"label": "L-threonine deaminase",
+"size":  28.7732,
+"color": "#FF4A00",
+"x": 1.191776,
+"y": 0.6121579 
+},
+{
+ "id": "5-Hydroxy-L-tryptophan decarboxy-lyase",
+"label": "5-Hydroxy-L-tryptophan decarboxy-lyase",
+"size":  28.7732,
+"color": "#FF5500",
+"x": 1.165727,
+"y": -3.474916 
+},
+{
+ "id": "5-Hydroxy-L-tryptophan exchange",
+"label": "5-Hydroxy-L-tryptophan exchange",
+"size":  28.7732,
+"color": "#FF6000",
+"x": 0.4004666,
+"y": -3.348268 
+},
+{
+ "id": "L-Tryptophan,tetrahydrobiopterin:oxygen oxidoreductase (5-hydroxylating)",
+"label": "L-Tryptophan,tetrahydrobiopterin:oxygen oxidoreductase (5-hydroxylating)",
+"size":  28.7732,
+"color": "#FF6A00",
+"x": 0.1978378,
+"y": -4.086798 
+},
+{
+ "id": "Serotonin exchange",
+"label": "Serotonin exchange",
+"size":  28.7732,
+"color": "#FF7500",
+"x": 0.9509418,
+"y": -4.226127 
+},
+{
+ "id": "cystathionine beta-synthase",
+"label": "cystathionine beta-synthase",
+"size":  15.8866,
+"color": "#FF8000",
+"x": 0.4940941,
+"y": 1.233791 
+},
+{
+ "id": "cystathionine g-lyase",
+"label": "cystathionine g-lyase",
+"size":  15.8866,
+"color": "#FF8A00",
+"x": 0.9180136,
+"y": 1.418607 
+},
+{
+ "id": "methenyltetrahydrifikate cyclohydrolase, mitochondrial",
+"label": "methenyltetrahydrifikate cyclohydrolase, mitochondrial",
+"size": 12.70874,
+"color": "#FF9500",
+"x": -5.874366,
+"y": -2.664169 
+},
+{
+ "id": "Tetrahydrobiopterin-4a-carbinolamine dehydratase",
+"label": "Tetrahydrobiopterin-4a-carbinolamine dehydratase",
+"size": 10.04225,
+"color": "#FF9F00",
+"x": -1.656972,
+"y": -2.830192 
+},
+{
+ "id": "adenosylhomocysteinase",
+"label": "adenosylhomocysteinase",
+"size": 7.830918,
+"color": "#FFAA00",
+"x": -0.1955729,
+"y": 2.310609 
+},
+{
+ "id": "methionine adenosyltransferase",
+"label": "methionine adenosyltransferase",
+"size": 7.830918,
+"color": "#FFB500",
+"x": 0.4937751,
+"y": 2.618704 
+},
+{
+ "id": "FAD transporter, peroxisomal",
+"label": "FAD transporter, peroxisomal",
+"size": 5.209945,
+"color": "#FFBF00",
+"x": -3.332324,
+"y": -4.410264 
+},
+{
+ "id": "L-Phenylalanine exchange",
+"label": "L-Phenylalanine exchange",
+"size": 5.118644,
+"color": "#FFCA00",
+"x": -4.104215,
+"y": -4.40573 
+},
+{
+ "id": "2-aminomuconate reductase",
+"label": "2-aminomuconate reductase",
+"size": 6.861004,
+"color": "#FFD500",
+"x": -4.848394,
+"y": 0.4287175 
+},
+{
+ "id": "aminomuconate-semialdehyde dehydrogenase",
+"label": "aminomuconate-semialdehyde dehydrogenase",
+"size": 6.861004,
+"color": "#FFDF00",
+"x": -3.894677,
+"y": 1.439079 
+},
+{
+ "id": "picolinic acid decarboxylase",
+"label": "picolinic acid decarboxylase",
+"size": 6.861004,
+"color": "#FFEA00",
+"x": -5.09659,
+"y": 0.8294734 
+},
+{
+ "id": "3-Hydroxy-L-kynurenine hydrolase",
+"label": "3-Hydroxy-L-kynurenine hydrolase",
+"size": 6.676471,
+"color": "#FFF400",
+"x": -5.050621,
+"y": 1.260659 
+},
+{
+ "id": "3-hydroxyanthranilate 3,4-dioxygenase",
+"label": "3-hydroxyanthranilate 3,4-dioxygenase",
+"size": 6.676471,
+"color": "#FFFF00",
+"x": -4.502102,
+"y": 0.796963 
+},
+{
+ "id": "5-hydroxy-L-tryptophan secretion via secretory vesicle (ATP driven)",
+"label": "5-hydroxy-L-tryptophan secretion via secretory vesicle (ATP driven)",
+"size": 6.676471,
+"color": "#FFFF10",
+"x": -4.350673,
+"y": 0.3296858 
+},
+{
+ "id": "kynurenine 3-monooxygenase",
+"label": "kynurenine 3-monooxygenase",
+"size": 6.676471,
+"color": "#FFFF30",
+"x":  -3.9572,
+"y": 0.5856621 
+},
+{
+ "id": "L-Tryptophan:oxygen 2,3-oxidoreductase (decyclizing)",
+"label": "L-Tryptophan:oxygen 2,3-oxidoreductase (decyclizing)",
+"size": 6.676471,
+"color": "#FFFF50",
+"x": -4.402821,
+"y": 1.238263 
+},
+{
+ "id": "N-Formyl-L-kynurenine amidohydrolase",
+"label": "N-Formyl-L-kynurenine amidohydrolase",
+"size": 6.676471,
+"color": "#FFFF70",
+"x": -3.799012,
+"y": 0.9938623 
+},
+{
+ "id": "nicotinate-nucleotide diphosphorylase (carboxylating)",
+"label": "nicotinate-nucleotide diphosphorylase (carboxylating)",
+"size": 6.676471,
+"color": "#FFFF8F",
+"x": -4.77704,
+"y": 1.620991 
+},
+{
+ "id": "Quinolinate Synthase (Eukaryotic)",
+"label": "Quinolinate Synthase (Eukaryotic)",
+"size": 6.676471,
+"color": "#FFFFAF",
+"x": -4.294712,
+"y": 1.715777 
+},
+{
+ "id": "lipid, flip-flop intracellular transport",
+"label": "lipid, flip-flop intracellular transport",
+"size": 4.574803,
+"color": "#FFFFCF",
+"x": -3.407054,
+"y": -3.624688 
+},
+{
+ "id": "Trehalose exchange",
+"label": "Trehalose exchange",
+"size": 4.550388,
+"color": "#FFFFEF",
+"x": -4.19163,
+"y": -3.652477 
+} 
+],
+"edges": [ {
+ "id": "1",
+"source": "2-hydroxybutyrate cotransport with proton",
+"target": "2-Hydroxybutyrate:NAD+ oxidoreductase" 
+},
+{
+ "id": "2",
+"source": "2-hydroxybutyrate cotransport with proton",
+"target": "2-Methylcitrate exchange" 
+},
+{
+ "id": "3",
+"source": "2-Hydroxybutyrate:NAD+ oxidoreductase",
+"target": "2-Methylcitrate exchange" 
+},
+{
+ "id": "4",
+"source": "2-hydroxybutyrate cotransport with proton",
+"target": "2-methylcitrate synthase" 
+},
+{
+ "id": "5",
+"source": "2-Hydroxybutyrate:NAD+ oxidoreductase",
+"target": "2-methylcitrate synthase" 
+},
+{
+ "id": "6",
+"source": "2-Methylcitrate exchange",
+"target": "2-methylcitrate synthase" 
+},
+{
+ "id": "7",
+"source": "2-hydroxybutyrate cotransport with proton",
+"target": "2-methylcitrate transport via diffusion" 
+},
+{
+ "id": "8",
+"source": "2-Hydroxybutyrate:NAD+ oxidoreductase",
+"target": "2-methylcitrate transport via diffusion" 
+},
+{
+ "id": "9",
+"source": "2-Methylcitrate exchange",
+"target": "2-methylcitrate transport via diffusion" 
+},
+{
+ "id": "10",
+"source": "2-methylcitrate synthase",
+"target": "2-methylcitrate transport via diffusion" 
+},
+{
+ "id": "11",
+"source": "2-hydroxybutyrate cotransport with proton",
+"target": "2-Oxobutanoate dehydrogenase, cytosolic" 
+},
+{
+ "id": "12",
+"source": "2-Hydroxybutyrate:NAD+ oxidoreductase",
+"target": "2-Oxobutanoate dehydrogenase, cytosolic" 
+},
+{
+ "id": "13",
+"source": "2-Methylcitrate exchange",
+"target": "2-Oxobutanoate dehydrogenase, cytosolic" 
+},
+{
+ "id": "14",
+"source": "2-methylcitrate synthase",
+"target": "2-Oxobutanoate dehydrogenase, cytosolic" 
+},
+{
+ "id": "15",
+"source": "2-methylcitrate transport via diffusion",
+"target": "2-Oxobutanoate dehydrogenase, cytosolic" 
+},
+{
+ "id": "16",
+"source": "2-hydroxybutyrate cotransport with proton",
+"target": "L-threonine deaminase" 
+},
+{
+ "id": "17",
+"source": "2-Hydroxybutyrate:NAD+ oxidoreductase",
+"target": "L-threonine deaminase" 
+},
+{
+ "id": "18",
+"source": "2-Methylcitrate exchange",
+"target": "L-threonine deaminase" 
+},
+{
+ "id": "19",
+"source": "2-methylcitrate synthase",
+"target": "L-threonine deaminase" 
+},
+{
+ "id": "20",
+"source": "2-methylcitrate transport via diffusion",
+"target": "L-threonine deaminase" 
+},
+{
+ "id": "21",
+"source": "2-Oxobutanoate dehydrogenase, cytosolic",
+"target": "L-threonine deaminase" 
+},
+{
+ "id": "22",
+"source": "5-Hydroxy-L-tryptophan decarboxy-lyase",
+"target": "5-Hydroxy-L-tryptophan exchange" 
+},
+{
+ "id": "23",
+"source": "5-Hydroxy-L-tryptophan decarboxy-lyase",
+"target": "L-Tryptophan,tetrahydrobiopterin:oxygen oxidoreductase (5-hydroxylating)" 
+},
+{
+ "id": "24",
+"source": "5-Hydroxy-L-tryptophan exchange",
+"target": "L-Tryptophan,tetrahydrobiopterin:oxygen oxidoreductase (5-hydroxylating)" 
+},
+{
+ "id": "25",
+"source": "5-Hydroxy-L-tryptophan decarboxy-lyase",
+"target": "Serotonin exchange" 
+},
+{
+ "id": "26",
+"source": "5-Hydroxy-L-tryptophan exchange",
+"target": "Serotonin exchange" 
+},
+{
+ "id": "27",
+"source": "L-Tryptophan,tetrahydrobiopterin:oxygen oxidoreductase (5-hydroxylating)",
+"target": "Serotonin exchange" 
+},
+{
+ "id": "28",
+"source": "2-hydroxybutyrate cotransport with proton",
+"target": "cystathionine beta-synthase" 
+},
+{
+ "id": "29",
+"source": "2-Hydroxybutyrate:NAD+ oxidoreductase",
+"target": "cystathionine beta-synthase" 
+},
+{
+ "id": "30",
+"source": "2-Methylcitrate exchange",
+"target": "cystathionine beta-synthase" 
+},
+{
+ "id": "31",
+"source": "2-methylcitrate synthase",
+"target": "cystathionine beta-synthase" 
+},
+{
+ "id": "32",
+"source": "2-methylcitrate transport via diffusion",
+"target": "cystathionine beta-synthase" 
+},
+{
+ "id": "33",
+"source": "2-Oxobutanoate dehydrogenase, cytosolic",
+"target": "cystathionine beta-synthase" 
+},
+{
+ "id": "34",
+"source": "L-threonine deaminase",
+"target": "cystathionine beta-synthase" 
+},
+{
+ "id": "35",
+"source": "2-hydroxybutyrate cotransport with proton",
+"target": "cystathionine g-lyase" 
+},
+{
+ "id": "36",
+"source": "2-Hydroxybutyrate:NAD+ oxidoreductase",
+"target": "cystathionine g-lyase" 
+},
+{
+ "id": "37",
+"source": "2-Methylcitrate exchange",
+"target": "cystathionine g-lyase" 
+},
+{
+ "id": "38",
+"source": "2-methylcitrate synthase",
+"target": "cystathionine g-lyase" 
+},
+{
+ "id": "39",
+"source": "2-methylcitrate transport via diffusion",
+"target": "cystathionine g-lyase" 
+},
+{
+ "id": "40",
+"source": "2-Oxobutanoate dehydrogenase, cytosolic",
+"target": "cystathionine g-lyase" 
+},
+{
+ "id": "41",
+"source": "L-threonine deaminase",
+"target": "cystathionine g-lyase" 
+},
+{
+ "id": "42",
+"source": "cystathionine beta-synthase",
+"target": "cystathionine g-lyase" 
+},
+{
+ "id": "43",
+"source": "cystathionine beta-synthase",
+"target": "adenosylhomocysteinase" 
+},
+{
+ "id": "44",
+"source": "cystathionine g-lyase",
+"target": "adenosylhomocysteinase" 
+},
+{
+ "id": "45",
+"source": "cystathionine beta-synthase",
+"target": "methionine adenosyltransferase" 
+},
+{
+ "id": "46",
+"source": "cystathionine g-lyase",
+"target": "methionine adenosyltransferase" 
+},
+{
+ "id": "47",
+"source": "adenosylhomocysteinase",
+"target": "methionine adenosyltransferase" 
+},
+{
+ "id": "48",
+"source": "FAD transporter, peroxisomal",
+"target": "L-Phenylalanine exchange" 
+},
+{
+ "id": "49",
+"source": "2-aminomuconate reductase",
+"target": "aminomuconate-semialdehyde dehydrogenase" 
+},
+{
+ "id": "50",
+"source": "2-aminomuconate reductase",
+"target": "picolinic acid decarboxylase" 
+},
+{
+ "id": "51",
+"source": "aminomuconate-semialdehyde dehydrogenase",
+"target": "picolinic acid decarboxylase" 
+},
+{
+ "id": "52",
+"source": "2-aminomuconate reductase",
+"target": "3-Hydroxy-L-kynurenine hydrolase" 
+},
+{
+ "id": "53",
+"source": "aminomuconate-semialdehyde dehydrogenase",
+"target": "3-Hydroxy-L-kynurenine hydrolase" 
+},
+{
+ "id": "54",
+"source": "picolinic acid decarboxylase",
+"target": "3-Hydroxy-L-kynurenine hydrolase" 
+},
+{
+ "id": "55",
+"source": "2-aminomuconate reductase",
+"target": "3-hydroxyanthranilate 3,4-dioxygenase" 
+},
+{
+ "id": "56",
+"source": "aminomuconate-semialdehyde dehydrogenase",
+"target": "3-hydroxyanthranilate 3,4-dioxygenase" 
+},
+{
+ "id": "57",
+"source": "picolinic acid decarboxylase",
+"target": "3-hydroxyanthranilate 3,4-dioxygenase" 
+},
+{
+ "id": "58",
+"source": "3-Hydroxy-L-kynurenine hydrolase",
+"target": "3-hydroxyanthranilate 3,4-dioxygenase" 
+},
+{
+ "id": "59",
+"source": "2-aminomuconate reductase",
+"target": "5-hydroxy-L-tryptophan secretion via secretory vesicle (ATP driven)" 
+},
+{
+ "id": "60",
+"source": "aminomuconate-semialdehyde dehydrogenase",
+"target": "5-hydroxy-L-tryptophan secretion via secretory vesicle (ATP driven)" 
+},
+{
+ "id": "61",
+"source": "picolinic acid decarboxylase",
+"target": "5-hydroxy-L-tryptophan secretion via secretory vesicle (ATP driven)" 
+},
+{
+ "id": "62",
+"source": "3-Hydroxy-L-kynurenine hydrolase",
+"target": "5-hydroxy-L-tryptophan secretion via secretory vesicle (ATP driven)" 
+},
+{
+ "id": "63",
+"source": "3-hydroxyanthranilate 3,4-dioxygenase",
+"target": "5-hydroxy-L-tryptophan secretion via secretory vesicle (ATP driven)" 
+},
+{
+ "id": "64",
+"source": "2-aminomuconate reductase",
+"target": "kynurenine 3-monooxygenase" 
+},
+{
+ "id": "65",
+"source": "aminomuconate-semialdehyde dehydrogenase",
+"target": "kynurenine 3-monooxygenase" 
+},
+{
+ "id": "66",
+"source": "picolinic acid decarboxylase",
+"target": "kynurenine 3-monooxygenase" 
+},
+{
+ "id": "67",
+"source": "3-Hydroxy-L-kynurenine hydrolase",
+"target": "kynurenine 3-monooxygenase" 
+},
+{
+ "id": "68",
+"source": "3-hydroxyanthranilate 3,4-dioxygenase",
+"target": "kynurenine 3-monooxygenase" 
+},
+{
+ "id": "69",
+"source": "5-hydroxy-L-tryptophan secretion via secretory vesicle (ATP driven)",
+"target": "kynurenine 3-monooxygenase" 
+},
+{
+ "id": "70",
+"source": "2-aminomuconate reductase",
+"target": "L-Tryptophan:oxygen 2,3-oxidoreductase (decyclizing)" 
+},
+{
+ "id": "71",
+"source": "aminomuconate-semialdehyde dehydrogenase",
+"target": "L-Tryptophan:oxygen 2,3-oxidoreductase (decyclizing)" 
+},
+{
+ "id": "72",
+"source": "picolinic acid decarboxylase",
+"target": "L-Tryptophan:oxygen 2,3-oxidoreductase (decyclizing)" 
+},
+{
+ "id": "73",
+"source": "3-Hydroxy-L-kynurenine hydrolase",
+"target": "L-Tryptophan:oxygen 2,3-oxidoreductase (decyclizing)" 
+},
+{
+ "id": "74",
+"source": "3-hydroxyanthranilate 3,4-dioxygenase",
+"target": "L-Tryptophan:oxygen 2,3-oxidoreductase (decyclizing)" 
+},
+{
+ "id": "75",
+"source": "5-hydroxy-L-tryptophan secretion via secretory vesicle (ATP driven)",
+"target": "L-Tryptophan:oxygen 2,3-oxidoreductase (decyclizing)" 
+},
+{
+ "id": "76",
+"source": "kynurenine 3-monooxygenase",
+"target": "L-Tryptophan:oxygen 2,3-oxidoreductase (decyclizing)" 
+},
+{
+ "id": "77",
+"source": "2-aminomuconate reductase",
+"target": "N-Formyl-L-kynurenine amidohydrolase" 
+},
+{
+ "id": "78",
+"source": "aminomuconate-semialdehyde dehydrogenase",
+"target": "N-Formyl-L-kynurenine amidohydrolase" 
+},
+{
+ "id": "79",
+"source": "picolinic acid decarboxylase",
+"target": "N-Formyl-L-kynurenine amidohydrolase" 
+},
+{
+ "id": "80",
+"source": "3-Hydroxy-L-kynurenine hydrolase",
+"target": "N-Formyl-L-kynurenine amidohydrolase" 
+},
+{
+ "id": "81",
+"source": "3-hydroxyanthranilate 3,4-dioxygenase",
+"target": "N-Formyl-L-kynurenine amidohydrolase" 
+},
+{
+ "id": "82",
+"source": "5-hydroxy-L-tryptophan secretion via secretory vesicle (ATP driven)",
+"target": "N-Formyl-L-kynurenine amidohydrolase" 
+},
+{
+ "id": "83",
+"source": "kynurenine 3-monooxygenase",
+"target": "N-Formyl-L-kynurenine amidohydrolase" 
+},
+{
+ "id": "84",
+"source": "L-Tryptophan:oxygen 2,3-oxidoreductase (decyclizing)",
+"target": "N-Formyl-L-kynurenine amidohydrolase" 
+},
+{
+ "id": "85",
+"source": "2-aminomuconate reductase",
+"target": "nicotinate-nucleotide diphosphorylase (carboxylating)" 
+},
+{
+ "id": "86",
+"source": "aminomuconate-semialdehyde dehydrogenase",
+"target": "nicotinate-nucleotide diphosphorylase (carboxylating)" 
+},
+{
+ "id": "87",
+"source": "picolinic acid decarboxylase",
+"target": "nicotinate-nucleotide diphosphorylase (carboxylating)" 
+},
+{
+ "id": "88",
+"source": "3-Hydroxy-L-kynurenine hydrolase",
+"target": "nicotinate-nucleotide diphosphorylase (carboxylating)" 
+},
+{
+ "id": "89",
+"source": "3-hydroxyanthranilate 3,4-dioxygenase",
+"target": "nicotinate-nucleotide diphosphorylase (carboxylating)" 
+},
+{
+ "id": "90",
+"source": "5-hydroxy-L-tryptophan secretion via secretory vesicle (ATP driven)",
+"target": "nicotinate-nucleotide diphosphorylase (carboxylating)" 
+},
+{
+ "id": "91",
+"source": "kynurenine 3-monooxygenase",
+"target": "nicotinate-nucleotide diphosphorylase (carboxylating)" 
+},
+{
+ "id": "92",
+"source": "L-Tryptophan:oxygen 2,3-oxidoreductase (decyclizing)",
+"target": "nicotinate-nucleotide diphosphorylase (carboxylating)" 
+},
+{
+ "id": "93",
+"source": "N-Formyl-L-kynurenine amidohydrolase",
+"target": "nicotinate-nucleotide diphosphorylase (carboxylating)" 
+},
+{
+ "id": "94",
+"source": "2-aminomuconate reductase",
+"target": "Quinolinate Synthase (Eukaryotic)" 
+},
+{
+ "id": "95",
+"source": "aminomuconate-semialdehyde dehydrogenase",
+"target": "Quinolinate Synthase (Eukaryotic)" 
+},
+{
+ "id": "96",
+"source": "picolinic acid decarboxylase",
+"target": "Quinolinate Synthase (Eukaryotic)" 
+},
+{
+ "id": "97",
+"source": "3-Hydroxy-L-kynurenine hydrolase",
+"target": "Quinolinate Synthase (Eukaryotic)" 
+},
+{
+ "id": "98",
+"source": "3-hydroxyanthranilate 3,4-dioxygenase",
+"target": "Quinolinate Synthase (Eukaryotic)" 
+},
+{
+ "id": "99",
+"source": "5-hydroxy-L-tryptophan secretion via secretory vesicle (ATP driven)",
+"target": "Quinolinate Synthase (Eukaryotic)" 
+},
+{
+ "id": "100",
+"source": "kynurenine 3-monooxygenase",
+"target": "Quinolinate Synthase (Eukaryotic)" 
+},
+{
+ "id": "101",
+"source": "L-Tryptophan:oxygen 2,3-oxidoreductase (decyclizing)",
+"target": "Quinolinate Synthase (Eukaryotic)" 
+},
+{
+ "id": "102",
+"source": "N-Formyl-L-kynurenine amidohydrolase",
+"target": "Quinolinate Synthase (Eukaryotic)" 
+},
+{
+ "id": "103",
+"source": "nicotinate-nucleotide diphosphorylase (carboxylating)",
+"target": "Quinolinate Synthase (Eukaryotic)" 
+},
+{
+ "id": "104",
+"source": "FAD transporter, peroxisomal",
+"target": "lipid, flip-flop intracellular transport" 
+},
+{
+ "id": "105",
+"source": "L-Phenylalanine exchange",
+"target": "lipid, flip-flop intracellular transport" 
+},
+{
+ "id": "106",
+"source": "FAD transporter, peroxisomal",
+"target": "Trehalose exchange" 
+},
+{
+ "id": "107",
+"source": "L-Phenylalanine exchange",
+"target": "Trehalose exchange" 
+},
+{
+ "id": "108",
+"source": "lipid, flip-flop intracellular transport",
+"target": "Trehalose exchange" 
+} ] 
+}

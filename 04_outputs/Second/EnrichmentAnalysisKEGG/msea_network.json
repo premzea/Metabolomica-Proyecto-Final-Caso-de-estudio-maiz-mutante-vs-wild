@@ -1,0 +1,153 @@
+{
+ "nodes": [
+ {
+ "id": "Valine, leucine and isoleucine biosynthesis",
+"label": "Valine, leucine and isoleucine biosynthesis",
+"size": 32.19708,
+"color": "#FF0000",
+"x": 1.095893,
+"y": -2.325977 
+},
+{
+ "id": "Galactose metabolism",
+"label": "Galactose metabolism",
+"size": 11.96861,
+"color": "#FF1400",
+"x": 0.2402585,
+"y": 3.643108 
+},
+{
+ "id": "Alanine, aspartate and glutamate metabolism",
+"label": "Alanine, aspartate and glutamate metabolism",
+"size": 11.33333,
+"color": "#FF2700",
+"x": 1.082029,
+"y": 1.715178 
+},
+{
+ "id": "Phenylalanine, tyrosine and tryptophan biosynthesis",
+"label": "Phenylalanine, tyrosine and tryptophan biosynthesis",
+"size": 32.23977,
+"color": "#FF3B00",
+"x":  3.57228,
+"y": 1.994894 
+},
+{
+ "id": "Valine, leucine and isoleucine degradation",
+"label": "Valine, leucine and isoleucine degradation",
+"size": 8.847953,
+"color": "#FF4E00",
+"x": -1.196221,
+"y": 3.435996 
+},
+{
+ "id": "Phenylalanine metabolism",
+"label": "Phenylalanine metabolism",
+"size": 17.59854,
+"color": "#FF6200",
+"x": 3.677983,
+"y": 1.149494 
+},
+{
+ "id": "Arginine biosynthesis",
+"label": "Arginine biosynthesis",
+"size": 11.33333,
+"color": "#FF7600",
+"x": 2.091622,
+"y": 0.2430076 
+},
+{
+ "id": "Histidine metabolism",
+"label": "Histidine metabolism",
+"size": 10.29927,
+"color": "#FF8900",
+"x": 2.502496,
+"y": -1.670241 
+},
+{
+ "id": "Selenocompound metabolism",
+"label": "Selenocompound metabolism",
+"size": 8.847953,
+"color": "#FF9D00",
+"x": 0.7073503,
+"y": -0.7227276 
+},
+{
+ "id": "Pantothenate and CoA biosynthesis",
+"label": "Pantothenate and CoA biosynthesis",
+"size": 8.847953,
+"color": "#FFB100",
+"x": -0.5021083,
+"y": -2.031309 
+},
+{
+ "id": "beta-Alanine metabolism",
+"label": "beta-Alanine metabolism",
+"size": 8.555556,
+"color": "#FFC400",
+"x": -0.6024505,
+"y": 1.853467 
+},
+{
+ "id": "Propanoate metabolism",
+"label": "Propanoate metabolism",
+"size": 8.319149,
+"color": "#FFD800",
+"x": 3.603374,
+"y": -0.5606576 
+},
+{
+ "id": "One carbon pool by folate",
+"label": "One carbon pool by folate",
+"size": 7.484305,
+"color": "#FFEB00",
+"x": -2.219321,
+"y": 2.049956 
+},
+{
+ "id": "Lysine degradation",
+"label": "Lysine degradation",
+"size": 7.032258,
+"color": "#FFFF00",
+"x": -1.792791,
+"y": -1.106259 
+},
+{
+ "id": "Glycine, serine and threonine metabolism",
+"label": "Glycine, serine and threonine metabolism",
+"size": 6.649635,
+"color": "#FFFF20",
+"x": -0.7211253,
+"y": 0.1361284 
+},
+{
+ "id": "Arginine and proline metabolism",
+"label": "Arginine and proline metabolism",
+"size": 6.333333,
+"color": "#FFFF60",
+"x": 1.595884,
+"y": 4.001343 
+},
+{
+ "id": "Pyrimidine metabolism",
+"label": "Pyrimidine metabolism",
+"size": 5.994012,
+"color": "#FFFF9F",
+"x":  2.45569,
+"y": 2.954591 
+},
+{
+ "id": "Tryptophan metabolism",
+"label": "Tryptophan metabolism",
+"size": 5.923977,
+"color": "#FFFFDF",
+"x": -2.387753,
+"y": 0.4575106 
+} 
+],
+"edges": [ {
+ "id": "1",
+"source": "Phenylalanine, tyrosine and tryptophan biosynthesis",
+"target": "Phenylalanine metabolism" 
+} ] 
+}
