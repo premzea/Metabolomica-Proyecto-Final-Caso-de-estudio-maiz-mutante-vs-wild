@@ -1,20 +1,20 @@
 ,Total,Expected,Hits,Raw p,"""-LOG10(p)""",Holm adjust,FDR,Impact
-"Valine, leucine and isoleucine biosynthesis",22,0.18462,2,0.013589,1.8668,1,0.58172,0.02145
-Glucosinolate biosynthesis,24,0.2014,2,0.016086,1.7936,1,0.58172,0
-Galactose metabolism,26,0.21818,2,0.018765,1.7266,1,0.58172,0.07062
-"Valine, leucine and isoleucine degradation",37,0.31049,2,0.03653,1.4374,1,0.84931,0.01982
-"Tropane, piperidine and pyridine alkaloid biosynthesis",9,0.075524,1,0.073237,1.1353,1,1,0
-Phenylalanine metabolism,12,0.1007,1,0.096534,1.0153,1,1,0.34615
-Selenocompound metabolism,13,0.10909,1,0.10418,0.98222,1,1,0
-Arginine biosynthesis,18,0.15105,1,0.14153,0.84916,1,1,0.13169
-beta-Alanine metabolism,18,0.15105,1,0.14153,0.84916,1,1,0.25397
-Lysine degradation,20,0.16783,1,0.15606,0.80671,1,1,0
-Carbon fixation by Calvin cycle,21,0.17622,1,0.16324,0.78716,1,1,0
-"Alanine, aspartate and glutamate metabolism",22,0.18462,1,0.17037,0.76861,1,1,0
-"Phenylalanine, tyrosine and tryptophan biosynthesis",22,0.18462,1,0.17037,0.76861,1,1,0.00851
-Tryptophan metabolism,23,0.19301,1,0.17744,0.75095,1,1,0.17829
-Pantothenate and CoA biosynthesis,25,0.20979,1,0.19142,0.71802,1,1,0.11678
-Arginine and proline metabolism,28,0.23497,1,0.21197,0.67372,1,1,0.09174
-"Glycine, serine and threonine metabolism",33,0.27692,1,0.24517,0.61053,1,1,0
-Phenylpropanoid biosynthesis,33,0.27692,1,0.24517,0.61053,1,1,0.05294
-Pyrimidine metabolism,40,0.33566,1,0.2895,0.53835,1,1,0
+"Valine, leucine and isoleucine biosynthesis",22,0.185,2,0.014,1.867,1.000,0.582,0.021
+Glucosinolate biosynthesis,24,0.201,2,0.016,1.794,1.000,0.582,0.000
+Galactose metabolism,26,0.218,2,0.019,1.727,1.000,0.582,0.071
+"Valine, leucine and isoleucine degradation",37,0.310,2,0.037,1.437,1.000,0.849,0.020
+"Tropane, piperidine and pyridine alkaloid biosynthesis",9,0.076,1,0.073,1.135,1.000,1.000,0.000
+Phenylalanine metabolism,12,0.101,1,0.097,1.015,1.000,1.000,0.346
+Selenocompound metabolism,13,0.109,1,0.104,0.982,1.000,1.000,0.000
+Arginine biosynthesis,18,0.151,1,0.142,0.849,1.000,1.000,0.132
+beta-Alanine metabolism,18,0.151,1,0.142,0.849,1.000,1.000,0.254
+Lysine degradation,20,0.168,1,0.156,0.807,1.000,1.000,0.000
+Carbon fixation by Calvin cycle,21,0.176,1,0.163,0.787,1.000,1.000,0.000
+"Alanine, aspartate and glutamate metabolism",22,0.185,1,0.170,0.769,1.000,1.000,0.000
+"Phenylalanine, tyrosine and tryptophan biosynthesis",22,0.185,1,0.170,0.769,1.000,1.000,0.009
+Tryptophan metabolism,23,0.193,1,0.177,0.751,1.000,1.000,0.178
+Pantothenate and CoA biosynthesis,25,0.210,1,0.191,0.718,1.000,1.000,0.117
+Arginine and proline metabolism,28,0.235,1,0.212,0.674,1.000,1.000,0.092
+"Glycine, serine and threonine metabolism",33,0.277,1,0.245,0.611,1.000,1.000,0.000
+Phenylpropanoid biosynthesis,33,0.277,1,0.245,0.611,1.000,1.000,0.053
+Pyrimidine metabolism,40,0.336,1,0.290,0.538,1.000,1.000,0.000
